@@ -92,25 +92,6 @@ Up/Down Arrows: Navigate menu options.
 Enter: Select a menu option.
 1, 2, 3: Select difficulty (Easy, Medium, Hard) in the difficulty menu.
 
-File Structure
-minesweeper/
-├── main.cpp              # Main game source code
-├── images/
-│   └── tiles.jpg         # Tile sprites (numbers, mines, flags)
-├── sound/
-│   ├── click.wav         # Tile reveal sound
-│   ├── flag.wav          # Flag placement/removal sound
-│   ├── lobby.wav         # Menu background music
-│   ├── lose_flowergarden_short.wav  # Game over sound (short)
-│   ├── lose_flowergarden_medium.wav # Game over sound (medium)
-│   ├── lose_flowergarden_long.wav   # Game over sound (long)
-│   ├── lose_minesweeper.wav         # Mine hit sound
-│   ├── start.wav         # Game start/load sound
-│   └── win.wav           # Win sound
-├── fonts/
-│   └── arial.ttf         # Font for text rendering
-├── savegame.txt          # Saved game state (generated)
-└── highscores.txt        # High scores (generated)
 
 Dependencies
 
