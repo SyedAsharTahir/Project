@@ -6,10 +6,8 @@ Installation
 Usage
 Features
 Controls
-File Structure
 Dependencies
 Contributing
-License
 
 Installation
 
