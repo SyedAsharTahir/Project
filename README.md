@@ -1,6 +1,5 @@
 # Project
 Minesweeper
-Description
 This is a modern implementation of the classic Minesweeper game built using C++ and the SFML library. It features a 10x10 playable grid, three difficulty levels (Easy, Medium, Hard), hint functionality, high score tracking, save/load capabilities, and visual effects like tile animations, screen shake, and particle effects. The game includes a menu system with controls, credits, and settings for an enhanced user experience.
 Table of Contents
 
