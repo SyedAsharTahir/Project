@@ -15,7 +15,7 @@ License
 Installation
 
 Clone the repository:
-git clone https://github.com/syedashartahir/minesweeper.git
+git clone https://github.com/SyedAsharTahir/minesweeper.git
 cd minesweeper
 
 
